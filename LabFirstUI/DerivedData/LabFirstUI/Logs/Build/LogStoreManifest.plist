@@ -5,6 +5,211 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>09886021-0E75-40B3-A4B0-82A614D589FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09886021-0E75-40B3-A4B0-82A614D589FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LabFirstUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LabFirstUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LabFirstUI</string>
+			<key>timeStartedRecording</key>
+			<real>653229816.07194495</real>
+			<key>timeStoppedRecording</key>
+			<real>653229816.18739903</real>
+			<key>title</key>
+			<string>Build LabFirstUI</string>
+			<key>uniqueIdentifier</key>
+			<string>09886021-0E75-40B3-A4B0-82A614D589FE</string>
+		</dict>
+		<key>2A2B6E1C-EE76-4F9B-9742-0ECCBABDB62C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A2B6E1C-EE76-4F9B-9742-0ECCBABDB62C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LabFirstUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LabFirstUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LabFirstUI</string>
+			<key>timeStartedRecording</key>
+			<real>653229794.81632197</real>
+			<key>timeStoppedRecording</key>
+			<real>653229795.082564</real>
+			<key>title</key>
+			<string>Build LabFirstUI</string>
+			<key>uniqueIdentifier</key>
+			<string>2A2B6E1C-EE76-4F9B-9742-0ECCBABDB62C</string>
+		</dict>
+		<key>67817D83-AFA3-4D27-B7D9-59141625FBDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67817D83-AFA3-4D27-B7D9-59141625FBDC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LabFirstUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LabFirstUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LabFirstUI</string>
+			<key>timeStartedRecording</key>
+			<real>653229765.46480095</real>
+			<key>timeStoppedRecording</key>
+			<real>653229766.35936105</real>
+			<key>title</key>
+			<string>Build LabFirstUI</string>
+			<key>uniqueIdentifier</key>
+			<string>67817D83-AFA3-4D27-B7D9-59141625FBDC</string>
+		</dict>
+		<key>7F5FCCC9-5E86-4C29-87B8-59E2552063B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7F5FCCC9-5E86-4C29-87B8-59E2552063B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LabFirstUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LabFirstUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LabFirstUI</string>
+			<key>timeStartedRecording</key>
+			<real>653229899.79759002</real>
+			<key>timeStoppedRecording</key>
+			<real>653229901.36511302</real>
+			<key>title</key>
+			<string>Build LabFirstUI</string>
+			<key>uniqueIdentifier</key>
+			<string>7F5FCCC9-5E86-4C29-87B8-59E2552063B9</string>
+		</dict>
+		<key>902F748E-7105-4263-A62D-7F2241125EB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>902F748E-7105-4263-A62D-7F2241125EB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LabFirstUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LabFirstUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LabFirstUI</string>
+			<key>timeStartedRecording</key>
+			<real>653229859.04153001</real>
+			<key>timeStoppedRecording</key>
+			<real>653229859.180493</real>
+			<key>title</key>
+			<string>Build LabFirstUI</string>
+			<key>uniqueIdentifier</key>
+			<string>902F748E-7105-4263-A62D-7F2241125EB3</string>
+		</dict>
+		<key>E1D7ED34-8F35-4846-BDD5-CD58C831AD17</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1D7ED34-8F35-4846-BDD5-CD58C831AD17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LabFirstUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LabFirstUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LabFirstUI</string>
+			<key>timeStartedRecording</key>
+			<real>653229804.06131399</real>
+			<key>timeStoppedRecording</key>
+			<real>653229804.17645597</real>
+			<key>title</key>
+			<string>Build LabFirstUI</string>
+			<key>uniqueIdentifier</key>
+			<string>E1D7ED34-8F35-4846-BDD5-CD58C831AD17</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
